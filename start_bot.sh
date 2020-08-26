@@ -1,0 +1,5 @@
+#!/bin/bash
+export SLACK_TOKEN=YOUR_TOKEN_HERE
+export WIT_TOKEN=YOUR_TOKEN_HERE
+export WOLFRAM_TOKEN=YOUR_TOKEN_HER
+go run bot.go
